@@ -1,0 +1,33 @@
+
+services:
+  ygo_mongo:
+    image: mongo:latest
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+
+
+  ygo_api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    depends_on:
+      - ygo_mongo
+    volumes:
+      - card_images:/app/images  # NOUVEAU : Dossier persistant
+
+  ygo_ui:
+    build:
+      context: .
+      dockerfile: Dockerfile.streamlit
+    ports:
+      - "8501:8501"
+    depends_on:
+      - ygo_api
+
+volumes:
+  mongo_data:
+  card_images:  # NOUVEAU : Déclaration du volume
