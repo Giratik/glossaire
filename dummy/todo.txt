@@ -1,0 +1,4 @@
+faire un dictionnaire des rareté 
+pcr = prismatic rare
+utr = ultimate rare
+ur = ultra rare

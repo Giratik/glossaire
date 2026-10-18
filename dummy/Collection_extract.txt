@@ -1,0 +1,362 @@
+3 Union Hangar [MAGO] MAGO-EN103
+3 ABC-Dragon Buster [OP13] OP13-EN006
+3 Unauthorized Reactivation [SR10] SR10-EN041
+1 Bujinki Ahashima [DUOV] DUOV-EN018
+1 Gold Gadget [MVP1-ENS] MVP1-ENS18
+1 Silver Gadget [MVP1-ENS] MVP1-ENS17
+1 Platinum Gadget [DUPO] DUPO-EN039
+3 C-Crush Wyvern [LC06] LCKC-EN021
+3 B-Buster Drake [LC06] LCKC-EN020
+3 A-Assault Core [LC06] LCKC-EN019
+1 Silver Gadget [MVP1-ENG] MVP1-ENG17
+1 Gold Gadget [MVP1-ENG] MVP1-ENG18
+1 XYZ-Dragon Cannon [SDKS] SDKS-EN042
+1 Albion the Sanctifire Dragon [CYAC] CYAC-EN035
+2 Galaxy Soldier [GFP2] GFP2-EN105
+1 Fusion Substitute [SDAZ] SDAZ-EN026
+2 XYZ Combine [BACH] BACH-EN061
+2 Limiter Removal [SDCS] SDCS-EN033
+4 Fusion Deployment [SDCS] SDCS-EN030
+3 Union Driver [MP21] MP21-EN059
+3 XYZ Hyper Cannon [KICO] KICO-EN010
+1 Y-Dragon Head [SBCB] SBCB-EN064
+1 X-Head Cannon [SBCB] SBCB-EN063
+3 Union Scramble [MAGO] MAGO-EN104
+1 Cyber Dragon Infinity (Alternate Art) [MAGO] MAGO-EN033
+1 Metaverse [SDCH] SDCH-EN034
+1 Nibiru, the Primal Being [CT16] TN19-EN013
+1 Quintet Magician [DUPO] DUPO-EN040
+1 X-Head Cannon [LC06] LCKC-EN005
+1 Unexpected Dai [SR04] SR04-EN028
+1 XZ-Tank Cannon [SDKS] SDKS-EN044
+1 XY-Dragon Cannon [SDKS] SDKS-EN043
+1 Y-Dragon Head [SDKS] SDKS-EN006
+1 X-Head Cannon [SDKS] SDKS-EN005
+1 Unexpected Dai [LDK2] LDK2-ENK32
+1 Mystical Space Typhoon [YS13] YS13-ENV12
+1 Forbidden Chalice [BP01] BP01-EN082
+1 Cyber Jar [MRL-EN] MRL-077
+1 Cursed Seal of the Forbidden Spell [IOC] IOC-049
+1 Return from the Different Dimension [SDDE] SDDE-EN030
+1 Heavy Storm [SD6] SD6-EN023
+1 Pot of Greed [SD4] SD4-EN018
+1 Y-Dragon Head [DPKB] DPKB-EN011
+1 X-Head Cannon [DPKB] DPKB-EN007
+2 Frontline Base [SDMM] SDMM-EN025
+1 Pot of Avarice [SDZW] SDZW-EN026
+1 Monster Reborn [DPYG] DPYG-EN019
+1 Creature Swap [5DS2] 5DS2-EN027
+1 W-Wing Catapult [EEN] EEN-EN011
+1 Back to Square One [RDS] RDS-EN044
+1 De-Fusion [DP04] DP04-EN017
+1 YZ-Tank Dragon [DR1] DR1-EN109
+1 Z-Metal Tank [SDKS] SDKS-EN007
+1 Y-Dragon Head [LC06] LCKC-EN006
+2 Cyber Dragon Nova [LEDD] LEDD-ENB30
+1 Bujintei Tsukuyomi [BLLR] BLLR-EN069
+1 A-to-Z-Dragon Buster Cannon [SDKS] SDKS-EN040
+1 Starliege Paladynamo [ZTIN] ZTIN-EN014
+1 Morphing Jar [SDRL] SDRL-EN007
+1 Soul Absorption [IOC] IOC-046
+3 Gimmick Puppet Dreary Doll [LART] LART-EN069
+3 Service Puppet Play [INFO] INFO-EN070
+3 Mansion of the Dreadful Dolls [INFO] INFO-EN056
+3 Gimmick Puppet Cattle Scream [INFO] INFO-EN009
+3 Gimmick Puppet Rouge Doll [INFO] INFO-EN008
+3 Gimmick Puppet Little Soldiers [INFO] INFO-EN007
+1 Condolence Puppet [IGAS] IGAS-EN059
+1 Rank-Up-Magic Argent Chaos Force [PGLD] PGLD-EN027
+1 Gimmick Puppet Dreary Doll [PGLD] PGLD-EN001
+3 CXyz Gimmick Puppet Fanatix Machinix [INFO] INFO-EN043
+3 Gimmick Puppet Fantasix Machinix [INFO] INFO-EN042
+3 Gimmick Puppet Gigantes Doll [LDS3] LDS3-EN067
+3 Gimmick Puppet Bisque Doll [LDS3] LDS3-EN063
+3 Gimmick Puppet Terror Baby [LDS3] LDS3-EN062
+3 Gimmick Puppet Chimera Doll [BLHR] BLHR-EN053
+3 Gimmick Puppet Scissor Arms [NUMH] NUMH-EN008
+3 Puppet Shark [ROTA] ROTA-EN070
+3 Number 40: Gimmick Puppet of Strings [LED5] LED5-EN043
+3 Gimmick Puppet Des Troy [LED5] LED5-EN041
+6 Marshalling Field [INCH] INCH-EN045
+3 Rank-Up-Magic Argent Chaos Force [BROL] BROL-EN091
+3 Puppet Parade [LED5] LED5-EN038
+3 Perform Puppet [LED5] LED5-EN037
+3 Gimmick Puppet Magnet Doll [PGLD] PGLD-EN002
+3 Gimmick Puppet Humpty Dumpty [PGLD] PGLD-EN011
+3 Junk Puppet [PGLD] PGLD-EN007
+3 Nightmare Pain [PHNI] PHNI-EN054
+3 Fallen Paradise [SGX3] SGX3-ENG10
+3 Uria, Lord of Searing Flames [MP21] MP21-EN252
+3 Phantasmal Martyrs [SDSA] SDSA-EN022
+3 Chaos Core [SDSA] SDSA-EN002
+3 That's 10! [INFO] INFO-EN067
+3 Rucia of the White Forest [INFO] INFO-EN016
+3 Dark End Evaporation Dragon [INFO] INFO-EN011
+3 Light End Sublimation Dragon [INFO] INFO-EN010
+3 Fiend Reflection of the Millennium [INFO] INFO-EN005
+3 Maiden of the Millennium Moon [INFO] INFO-EN004
+6 Gruesome Grave Squirmer [LEDE] LEDE-EN019
+3 Walls of the Imperial Tomb [PHNI] PHNI-EN065
+3 Mature Chronicle [PHNI] PHNI-EN055
+3 Samsara D Lotus [PHNI] PHNI-EN003
+3 Geistgrinder Golem [PHNI] PHNI-EN002
+3 Spirit of Yubel [PHNI] PHNI-EN001
+1 Unchained Soul of Sharvara [DUNE] DUNE-EN019
+3 Dark Summoning Beast [SGX3] SGX3-ENG04
+3 Number 81: Superdreadnought Rail Cannon Super Dora [MGED] MGED-EN065
+2 Dark Beckoning Beast [MP21] MP21-EN249
+1 Armityle the Chaos Phantasm - Phantom of Fury [PHRA] PHRA-EN035
+3 Armityle the Chaos Phantasm [SDSA] SDSA-EN045
+3 Hyper Blaze [SDSA] SDSA-EN034
+3 Opening of the Spirit Gates [SDSA] SDSA-EN020
+1 Dark Beckoning Beast [SDSA] SDSA-EN003
+3 Phantasm Emperor Trilojig [DUOV] DUOV-EN039
+1 Yellow Gadget (Quarter Century Secret Rare) [MP24] MP24-EN013
+3 Dragon's Light and Darkness [INFO] INFO-EN057
+3 Phantasmal Summoning Beast [PHNI] PHNI-EN014
+1 Traptrix Genlisea [LART] LART-EN056
+3 Piri Reis Map [AMDE] AMDE-EN059
+3 Raviel, Lord of Phantasms [MP21] MP21-EN254
+3 Hamon, Lord of Striking Thunder [MP21] MP21-EN253
+3 Chaos Summoning Beast [MP21] MP21-EN250
+3 Raviel, Lord of Phantasms - Shimmering Scraper [MP21] MP21-EN248
+1 Parallel eXceed (Quarter Century Secret Rare) [MP24] MP24-EN050
+1 Albion the Shrouded Dragon [MP22] MP22-EN125
+3 Dramaturge of Despia [MP22] MP22-EN124
+3 Branded in Red [MP22] MP22-EN219
+3 Branded in High Spirits [MP22] MP22-EN217
+1 Masquerade the Blazing Dragon [MP22] MP22-EN208
+1 Ad Libitum of Despia [MP22] MP22-EN192
+3 Albion the Branded Dragon [MP22] MP22-EN076
+3 Branded Opening [MP22] MP22-EN155
+1 Despian Quaeritis [MP22] MP22-EN141
+1 Branded Banishment [DIFO] DIFO-EN072
+1 Despia, Theater of the Branded [GFP2] GFP2-EN167
+2 Despian Tragedy [GFP2] GFP2-EN096
+3 Aluber the Jester of Despia [GFP2] GFP2-EN097
+3 Lubellion the Searing Dragon [SDAZ] SDAZ-EN042
+3 Mirrorjade the Iceblade Dragon [SDAZ] SDAZ-EN041
+3 Branded in White [SDAZ] SDAZ-EN022
+3 Branded Fusion [SDAZ] SDAZ-EN021
+3 Keeper of Dragon Magic [SDAZ] SDAZ-EN015
+3 Radian, the Multidimensional Kaiju [SDAZ] SDAZ-EN010
+3 Dogmatika Fleurdelis, the Knighted [SDAZ] SDAZ-EN006
+3 Fallen of Albaz [SDAZ] SDAZ-EN004
+3 Springans Kitt [SDAZ] SDAZ-EN002
+3 Tri-Brigade Mercourier [SDAZ] SDAZ-EN001
+1 Red-Eyes Darkness Metal Dragon [MGED] MGED-EN009
+1 Dogmatika Ecclesia, the Virtuous [MP21] MP21-EN101
+1 Nadir Servant [MP21] MP21-EN135
+1 Mekk-Knight Crusadia Avramax [MP20] MP20-EN071
+1 Shaddoll Beast [BLHR] BLHR-EN083
+1 Shaddoll Hedgehog [BLHR] BLHR-EN081
+1 El Shaddoll Construct [DUPO] DUPO-EN090
+1 Shaddoll Fusion [SHVA] SHVA-EN057
+1 Transcode Talker [YS18] YS18-EN041
+1 Starving Venom Fusion Dragon [LEDD] LEDD-ENC25
+1 Forbidden Lance [PGLD] PGLD-EN048
+1 Allure of Darkness [SDGU] SDGU-EN027
+1 Foolish Burial [SDRL] SDRL-EN020
+3 Mementotlan Akihiron [ROTA] ROTA-EN015
+3 Chaos Allure Queen [ROTA] ROTA-EN011
+4 Nightmare Throne [LEDE] LEDE-EN061
+3 Mementotlan Twin Dragon [LEDE] LEDE-EN037
+3 Salamangreat Almiraj [BLC1] BLC1-EN096
+3 Mystic Potato [PHNI] PHNI-EN098
+3 Eternal Favorite [PHNI] PHNI-EN073
+3 Mementotlan Ghattic [PHNI] PHNI-EN017
+3 King's Sarcophagus [AGOV] AGOV-EN058
+3 Qebehsenuef, Protection of Horus [AGOV] AGOV-EN014
+3 Hapi, Guidance of Horus [AGOV] AGOV-EN013
+3 Time-Tearing Morganite [CYAC] CYAC-EN067
+5 Icejade Manifestation [PHHY] PHHY-EN053
+1 Selene, Queen of the Master Magicians [BLCR] BLCR-EN092
+3 Advanced Dark [BLCR] BLCR-EN054
+3 The Breaking Ruin God [MP22] MP22-EN274
+3 Soul Energy MAX!!! [MP22] MP22-EN272
+3 Sprind the Irondash Dragon [SDAZ] SDAZ-EN045
+3 Titaniklad the Ash Dragon [SDAZ] SDAZ-EN043
+3 Astral Kuriboh [BROL] BROL-EN061
+1 Blaze Cannon [LED7] LED7-EN005
+1 Ebon Illusion Magician [SHVI] SHVI-ENSE1
+1 Last Will [SDY] SDY-039
+1 The Dark - Hex-Sealed Fusion [FET] FET-EN028
+1 Barrier Statue of the Drought [CDIP] CDIP-EN022
+1 Cold Wave [PSV] PSV-062
+3 Icejade Ran Aegirine [BLTR] BLTR-EN081
+1 Twin Twisters (Secret Rare) [RA02] RA02-EN060
+1 Underworld Goddess of the Closed World (Platinum Secret Rare) [RA02] RA02-EN045
+3 Millennium Revelation [MZMI] MZMI-EN070
+3 Ancient Chant [MZMI] MZMI-EN069
+1 Egyptian God Slime (PCR) [RA01] RA01-EN029
+2 Egyptian God Slime (Platinum Secret Rare) [RA01] RA01-EN029
+1 Egyptian God Slime (UR) [RA01] RA01-EN029
+1 The Winged Dragon of Ra - Sphere Mode (PCR) [RA01] RA01-EN007
+1 The Winged Dragon of Ra - Sphere Mode (Platinum Secret Rare) [RA01] RA01-EN007
+3 Icejade Aegirine [MP23] MP23-EN007
+3 Tokusano Shinkyojin [DUNE] DUNE-EN064
+1 Lightning Storm [MAMA] MAMA-EN089
+1 Knightmare Phoenix [MAMA] MAMA-EN071
+3 The True Sun God [MP22] MP22-EN275
+3 Icejade Tremora [MP22] MP22-EN191
+3 Marincess Coral Anemone [LED9] LED9-EN041
+3 Ice Barrier [BROL] BROL-EN013
+1 I:P Masquerena (Alternate Art) [MGED] MGED-EN035
+3 Icejade Cradle [BODE] BODE-EN056
+3 Crystal Girl [KICO] KICO-EN015
+1 Harpie Dancer [LART] LART-EN023
+1 Knightmare Unicorn [GEIM] GEIM-EN050
+3 Guardian Slime [LED7] LED7-EN003
+1 The Winged Dragon of Ra - Immortal Phoenix [DUPO] DUPO-EN046
+1 The Winged Dragon of Ra - Sphere Mode [DUPO] DUPO-EN045
+1 The Winged Dragon of Ra [LDK2] LDK2-ENS03
+1 Mound of the Bound Creator [DRL3] DRL3-EN053
+1 The Winged Dragon of Ra [ORCS] ORCS-ENSE2
+1 Monster Reborn [SDP] SDP-035
+1 Terraforming [SDRL] SDRL-EN026
+3 Icejade Gymir Aegirine [BLTR] BLTR-EN090
+1 Twin Twisters (PUR) [RA02] RA02-EN060
+3 Horus the Black Flame Deity [PHNI] PHNI-EN018
+3 Swordsoul Supreme Sovereign - Chengying [MAMA] MAMA-EN039
+4 Guardian Slime [LED7] LED7-EN003
+1 Galaxy-Eyes Cipher Dragon (Purple) [DLCS] DLCS-EN125
+1 Galaxy-Eyes Cipher Dragon (Green) [DLCS] DLCS-EN125
+1 Galaxy-Eyes Cipher Dragon (Blue) [DLCS] DLCS-EN125
+1 Neo Galaxy-Eyes Cipher Dragon [RATE] RATE-EN049
+1 Neo Galaxy-Eyes Cipher Dragon [RATE] RATE-EN049
+1 The Fang of Critias [DRL3] DRL3-EN060
+1 Mirror Force Dragon [DRL3] DRL3-EN059
+1 Alsei, the Sylvan High Protector [MP14] MP14-EN221
+1 Rank-Up-Magic - The Seventh One [PRIO] PRIO-EN058
+1 Rank-Up-Magic Quick Chaos [DRLG] DRLG-EN042
+1 Lava Golem [RP02] RP02-EN082
+1 Gagaga Magician (UTR) [ZTIN] ZTIN-ENV01
+1 Yubel - The Ultimate Nightmare [RYMP] RYMP-EN072
+1 Yubel - Terror Incarnate [RYMP] RYMP-EN071
+1 Yubel [RYMP] RYMP-EN070
+1 Red-Eyes B. Dragon [SDDC] SDDC-EN005
+1 Elemental HERO Neos [CT03] CT03-EN001
+1 Theinen the Great Sphinx [MC2] MC2-EN006
+1 Endymion, The Master Magician [SDSC] SDSC-EN001
+1 Polymerization [DPYG] DPYG-EN020
+1 Black Luster Soldier [DPYG] DPYG-EN017
+1 Puppet King [CRMS] CRMS-EN093
+1 Andro Sphinx [EP1] EP1-EN002
+1 The Legendary Fisherman [PSV-EN] PSV-EN076
+1 Lyna the Light Charmer, Lustrous [MP22] MP22-EN089
+1 Dharc the Dark Charmer, Gloomy [BACH] BACH-EN049
+1 Eria the Water Charmer, Gentle [MGED] MGED-EN122
+1 Wynn the Wind Charmer, Verdant [MGED] MGED-EN120
+1 Hiita the Fire Charmer, Ablaze [MGED] MGED-EN119
+1 Invocation [MGED] MGED-EN044
+2 Aleister the Invoker (Alternate Art) [MAGO] MAGO-EN016
+1 W-Wing Catapult [LC06] LCKC-EN083
+1 VW-Tiger Catapult [LC06] LCKC-EN060
+1 YZ-Tank Dragon [DPRP] DPRP-EN027
+1 Galaxy-Eyes Photon Dragon [PGLD] PGLD-EN038
+1 Elemental Hero Neos Knight (UTR) [EXVC] EXVC-EN093
+1 Uria, Lord of Searing Flames [LC02] LC02-EN001
+1 Raviel, Lord of Phantasms [LC02] LC02-EN003
+1 Hamon, Lord of Striking Thunder [LC02] LC02-EN002
+1 Black-Winged Dragon [CT07] CT07-EN002
+1 Stardust Dragon [CT05] CT05-EN001
+1 XZ-Tank Cannon [DR1] DR1-EN108
+1 Instant Fusion [CDIP] CDIP-EN040
+1 Elemental Hero Neos Knight [EXVC] EXVC-EN093
+1 Majestic Star Dragon (Ghost Rare) [SOVR] SOVR-EN040
+1 Sengenjin [PP02] PP02-EN003
+1 Z-Metal Tank [DP2] DP2-EN007
+1 Y-Dragon Head [DP2] DP2-EN006
+1 X-Head Cannon [DP2] DP2-EN005
+1 V-Tiger Jet [DP2] DP2-EN001
+1 Skill Drain [DR1] DR1-EN211
+1 XY-Dragon Cannon [DR1] DR1-EN106
+1 Shaddoll Schism [MP21] MP21-EN152
+1 Cyber Dragon Infinity [MAGO] MAGO-EN033
+1 Photon Alexandra Queen [NUMH] NUMH-EN047
+1 The Seal of Orichalcos [LC03] LC03-EN001
+1 Blue-Eyes White Dragon [SDK] SDK-001
+1 Levia-Dragon - Daedalus [SD4] SD4-EN010
+1 Blue-Eyes Toon Dragon [SDP] SDP-020
+1 Tri-Horned Dragon (LOB-000) [LOB] LOB-000
+1 Ocean Dragon Lord - Neo-Daedalus [SD4] SD4-EN001
+1 Blue-Eyes White Dragon [SDK] SDK-001
+1 CXyz Comics Hero Legend Arthur [NUMH] NUMH-EN042
+1 Coach King Giantrainer [NUMH] NUMH-EN037
+1 Hazy Flame Basiltrice [CBLZ] CBLZ-EN049
+1 Spellbook of Secrets (UTR) [REDU] REDU-EN057
+1 Doomkaiser Dragon (UTR) [CSOC] CSOC-EN043
+1 Reign-Beaux, Overlord of Dark World [SDGU] SDGU-EN014
+1 Malefic Parallel Gear [YMP1] YMP1-EN003
+1 Dark Magician [LOB] LOB-005
+1 Simorgh, Bird of Divinity [SD8] SD8-EN001
+1 Evolution Burst [HA01] HA01-EN030
+1 Gorz the Emissary of Darkness [RP02] RP02-EN000
+1 Windstorm of Etaqua [PCY] PCY-001
+1 Malefic Red-Eyes B. Dragon (Secret) [YMP1] YMP1-EN001
+1 Black Rose Dragon [CT05] CT05-EN003
+1 Malefic World [YMP1] YMP1-EN008
+1 Malefic Paradox Dragon [YMP1] YMP1-EN007
+1 Power Tool Dragon [CT06] CT06-EN001
+1 Barrier Statue of the Torrent [CDIP] CDIP-EN019
+1 Barrier Statue of the Drought [CDIP] CDIP-EN022
+1 Barrier Statue of the Abyss [CDIP] CDIP-EN018
+1 Gladiator Beast Alexander (UTR) [GLAS] GLAS-EN017
+1 Barrier Statue of the Stormwinds [CDIP] CDIP-EN021
+1 Neo Blue-Eyes Ultimate Dragon [MVP1-ENS] MVP1-ENS01
+1 Blue-Eyes Alternative Ultimate Dragon [CT16] TN19-EN001
+1 Earthbound Immortal Ccapac Apu (UTR) [RGBT] RGBT-EN020
+1 Return of the Six Samurai [GLD2] GLD2-EN049
+1 Earthbound Immortal Wiraqocha Rasca [CT06] CT06-EN004
+1 Blue-Eyes Ultimate Dragon [SJMP] JMP-EN005
+1 Rainbow Dragon [CT04] CT04-EN005
+1 Earthbound Immortal Aslla Piscu [RGBT] RGBT-EN019
+1 Black Illusion Ritual [MRL-EN] MRL-051
+1 Relinquished [SDP] SDP-001
+1 Harpie's Feather Duster [WC4] WC4-E003
+3 Millennium Ankh [INFO] INFO-EN053
+1 The Unstoppable Exodia Incarnate [INFO] INFO-EN033
+3 Cyber Slash Harpie Lady [BLC1] BLC1-EN010
+1 Yubel - The Loving Defender Forever [PHNI] PHNI-EN038
+1 Dark Magician (B) [YGLD] YGLD-ENB02
+1 Dark Magician [SDY] SDY-006
+1 Dark Magician [SYE] SYE-001
+2 Dark Cavalry [DUPO] DUPO-EN002
+1 Dark Paladin [YGLD] YGLD-ENC41
+2 Dark Magician Girl the Dragon Knight [DRL3] DRL3-EN044
+1 Amulet Dragon [DRL3] DRL3-EN043
+1 Dark Paladin [YGLD] YGLD-ENC41
+1 Magic Formula [DUOV] DUOV-EN087
+2 Palladium Oracle Mana [CT16] TN19-EN004
+1 Magician of Dark Illusion [MP17] MP17-EN072
+1 Chaos Scepter Blast [DUSA] DUSA-EN025
+2 Palladium Oracle Mahad [MVP1-ENG] MVP1-ENG53
+1 Dark Burning Attack [LDK2] LDK2-ENS04
+1 Magician's Rod [TDIL] TDIL-EN019
+1 Magician of Dark Illusion [TDIL] TDIL-EN017
+1 Dark Magician Girl (C) [YGLD] YGLD-ENC10
+1 Magic Formula [YGLD] YGLD-ENB20
+1 Dark Magician Girl (B) [YGLD] YGLD-ENB03
+1 Dark Magician Girl [DPYG] DPYG-EN008
+1 Magician of Black Chaos MAX [CT16] TN19-EN002
+1 Magic Gate of Miracles [DUPO] DUPO-EN019
+1 Dark Magic Twin Burst [DUPO] DUPO-EN018
+1 Bond Between Teacher and Student [DUPO] DUPO-EN017
+3 Dark Burning Magic [LDK2] LDK2-ENS05
+1 Ebon High Magician [TDIL] TDIL-EN052
+1 Dark Magic Curtain [YGLD] YGLD-ENB18
+1 Chaos Form [MVP1-ENS] MVP1-ENS08
+2 Dark Magical Circle [DUPO] DUPO-EN051
+1 Dark Renewal [YGLD] YGLD-ENB00
+1 Chaos Form [MVP1-ENG] MVP1-ENG08
+2 The Eye of Timaeus [DRL3] DRL3-EN045
+2 Magician of Chaos [DUPO] DUPO-EN001
+1 Black Illusion [YGLD] YGLD-ENC00
+1 Magician Navigation [MP17] MP17-EN110
+1 Spright Blue (UTR) [OP21] OP21-EN001
+2 Eternal Soul [DUPO] DUPO-EN052
+1 Eternal Soul [LDK2] LDK2-ENS06
+1 Monster Reborn (LART-EN074) [LART] LART-EN074
+1 The Winged Dragon of Ra [PGLD] PGLD-EN031
+1 Slifer the Sky Dragon [PGLD] PGLD-EN032
+1 Obelisk the Tormentor [PGLD] PGLD-EN030
