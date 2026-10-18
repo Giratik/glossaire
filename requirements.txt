@@ -1,6 +1,2 @@
-fastapi
-uvicorn
-httpx
-pymongo
-pydantic
-streamlit
+-r backend/requirements.txt
+-r frontend/requirements.txt

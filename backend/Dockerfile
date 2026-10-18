@@ -9,10 +9,10 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Copie du code source
-COPY main.py .
+COPY *.py ./backend/
 
 # Exposition du port utilisé par FastAPI
 EXPOSE 8000
 
 # Commande de lancement avec rechargement automatique (pratique pour le développement)
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]
+CMD ["uvicorn", "backend.main:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]

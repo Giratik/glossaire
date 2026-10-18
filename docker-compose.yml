@@ -10,7 +10,7 @@ services:
 
   ygo_api:
     build:
-      context: .
+      context: ./backend
       dockerfile: Dockerfile
     ports:
       - "8000:8000"
@@ -21,8 +21,8 @@ services:
 
   ygo_ui:
     build:
-      context: .
-      dockerfile: Dockerfile.streamlit
+      context: ./frontend
+      dockerfile: Dockerfile
     ports:
       - "8501:8501"
     depends_on:
